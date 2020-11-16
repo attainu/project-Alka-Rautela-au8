@@ -6,6 +6,7 @@ class CryptoCurrency:
         self.key = 'jGMUjkHpsNi6KkZfYVnqDhAx6H3suziJl8S0ihsiunt'
         self.applet1 = 'crypto_latest_price'
         self.applet2 = 'alert'
+        self.applet3 = 'popularCrypto'
         self.alert_low_sent = False
         self.alert_high_sent = False
 
